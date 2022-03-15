@@ -19,3 +19,7 @@ Ihr könnt hier eure Wünsche eintragen. Bitte die Folgende Formatierung nutzen:
                    -> Ace" ~ Rossebma ~ 15.03.2022
 - "Trading, mehrere Währungen" ~ Rossebma ~ 15.03.2022
 - "Scavenger und Raider (KI), die unheil Stiften" ~ Rossebma ~ 15.03.2022
+- "Lootdrops / Treasure Hunting" ~ Rossebma ~ 15.03.2022
+- "Fahr-/Flugzeuge und Helikopter, die man Kaputt vorfindet und erst reparieren muss, bevor man sie nutzen kann" ~ Rossebma ~ 15.03.2022
+- "Military Strongholds" ~ Rossebma ~15.03.2022
+- 
