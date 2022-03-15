@@ -21,5 +21,7 @@ Ihr könnt hier eure Wünsche eintragen. Bitte die Folgende Formatierung nutzen:
 - "Scavenger und Raider (KI), die unheil Stiften" ~ Rossebma ~ 15.03.2022
 - "Lootdrops / Treasure Hunting" ~ Rossebma ~ 15.03.2022
 - "Fahr-/Flugzeuge und Helikopter, die man Kaputt vorfindet und erst reparieren muss, bevor man sie nutzen kann" ~ Rossebma ~ 15.03.2022
-- "Military Strongholds" ~ Rossebma ~15.03.2022
-- 
+- "Military Strongholds" ~ Rossebma ~ 15.03.2022
+- "Random Spawns" ~ Rossebma ~ 15.03.2022
+- "Mehr Zivilfahrzeuge" ~ TheWightAngel ~ 15.03.2022
+- "
