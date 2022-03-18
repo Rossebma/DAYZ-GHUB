@@ -14,6 +14,7 @@ Inhalte:
 
 <h2> Feature 2 </h2>
 Feature: "Looting"
+
 Script: "loot"
 Inhalte:
 * Feste Loot-Spawns mit random items
@@ -24,6 +25,7 @@ Inhalte:
 
 <h2> Feature 3 </h2>
 Feature: "Zombies"
+
 Script: "zombies"
 Inhalte:
 * reskinned Civillians
