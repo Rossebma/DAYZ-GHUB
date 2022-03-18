@@ -4,6 +4,7 @@
 Feature: "Random Spawns"
 
 Script: "playerspawns"
+
 Inhalte:
 * Randowm Spawn Position auf Map
 * Kein Spawn in Gebäuden
@@ -16,6 +17,7 @@ Inhalte:
 Feature: "Looting"
 
 Script: "loot"
+
 Inhalte:
 * Feste Loot-Spawns mit random items
 * Kisten
@@ -27,6 +29,7 @@ Inhalte:
 Feature: "Zombies"
 
 Script: "zombies"
+
 Inhalte:
 * reskinned Civillians
 * Erhöhte Spawns in bestimmten Bereichen
