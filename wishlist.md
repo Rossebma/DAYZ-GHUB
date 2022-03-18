@@ -24,4 +24,4 @@ Ihr könnt hier eure Wünsche eintragen. Bitte die Folgende Formatierung nutzen:
 - "Military Strongholds" ~ Rossebma ~ 15.03.2022
 - "Random Spawns" ~ Rossebma ~ 15.03.2022
 - "Mehr Zivilfahrzeuge" ~ TheWhiteAngel ~ 15.03.2022
-- "
+- "Vietnam-Style Map" ~ Rene ~ 18.03.2022
